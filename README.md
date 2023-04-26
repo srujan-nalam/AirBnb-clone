@@ -123,8 +123,8 @@ This project is a clone of renowned american San Francisco -based company operat
 
 <br />
 
-##<div align="center">Don't forget to leave a star ⭐️</div>
+<div align="center">Don't forget to leave a star ⭐️</div>
 
 <br />
 
-<div align="center">Inspired by <a href="https://www.youtube.com/watch?v=c_-b_isI4vg&ab_channel=CodeWithAntonio"> Code With Antonio</a></div>
+<div align="center">Inspired by <a href="https://www.youtube.com/watch?v=c_-b_isI4vg&ab_channel=CodeWithAntonio" target="_blank"> Code With Antonio</a></div>
