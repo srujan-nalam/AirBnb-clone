@@ -123,7 +123,7 @@ This project is a clone of renowned american San Francisco -based company operat
 
 <br />
 
-<div align="center">Don't forget to leave a star ⭐️</div>
+##<div align="center">Don't forget to leave a star ⭐️</div>
 
 <br />
 
